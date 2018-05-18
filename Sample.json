@@ -1,0 +1,22 @@
+{
+  "Paper":[
+        {
+                "Qid": "c200",
+                "Question": "What is int?",
+                "a": "Keyword",
+                "b": "Datatype",
+                "c": "Interface",
+                "d": "a and b"
+                
+        },
+        {
+                "Qid": "c201",
+                "Question": "What is Java?",
+                "a": "Language",
+                "b": "Keyword",
+                "c": "Interface",
+                "d": "a andfgd c"
+                
+        }
+    ]
+}
